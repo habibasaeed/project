@@ -16,7 +16,7 @@ export default function TestimonialSection() {
             <img
               src={fifth} // Update with actual user image path
               alt="User"
-              className="object-cover md:h-96"
+              className="object-cover md:h-96 max-w-xs  lg:max-w-full"
             />
           </div>
         </div>
